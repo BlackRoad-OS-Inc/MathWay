@@ -1,3 +1,11 @@
+# MathWay
+
+> Road Fleet: MathWay — Math animation engine — explanatory videos. PROPRIETARY BlackRoad OS integration.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 <p align="center">
     <a href="https://github.com/3b1b/manim">
         <img src="https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png">
